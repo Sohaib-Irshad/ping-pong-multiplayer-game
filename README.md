@@ -7,7 +7,7 @@ A feature-rich Ping Pong game built in C++ using the [Raylib](https://www.raylib
 
 ## 📸 Preview
 
-![Game Preview](Resources/home%203.png)
+![Game Preview](src/home%203.png)
 
 ---
 
